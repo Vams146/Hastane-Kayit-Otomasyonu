@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Victus\\Desktop\\Ders Notlar\u0131\\NTP 10.S\u0131n\u0131f\\Otomasyonlar\\Hastane Kay\u0131t Otomasyonu\\HastaneKay\u0131tOtomasyonu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{39EBD924-A69D-418C-AA77-26D7542062A7}|HastaneKay\u0131tOtomasyonu\\HastaneKay\u0131tOtomasyonu.csproj|c:\\users\\victus\\desktop\\ders notlar\u0131\\ntp 10.s\u0131n\u0131f\\otomasyonlar\\hastane kay\u0131t otomasyonu\\hastanekay\u0131totomasyonu\\hastanekay\u0131totomasyonu\\giris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{39EBD924-A69D-418C-AA77-26D7542062A7}|HastaneKay\u0131tOtomasyonu\\HastaneKay\u0131tOtomasyonu.csproj|solutionrelative:hastanekay\u0131totomasyonu\\giris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39EBD924-A69D-418C-AA77-26D7542062A7}|HastaneKay\u0131tOtomasyonu\\HastaneKay\u0131tOtomasyonu.csproj|c:\\users\\victus\\desktop\\ders notlar\u0131\\ntp 10.s\u0131n\u0131f\\otomasyonlar\\hastane kay\u0131t otomasyonu\\hastanekay\u0131totomasyonu\\hastanekay\u0131totomasyonu\\yenikayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{39EBD924-A69D-418C-AA77-26D7542062A7}|HastaneKay\u0131tOtomasyonu\\HastaneKay\u0131tOtomasyonu.csproj|solutionrelative:hastanekay\u0131totomasyonu\\yenikayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39EBD924-A69D-418C-AA77-26D7542062A7}|HastaneKay\u0131tOtomasyonu\\HastaneKay\u0131tOtomasyonu.csproj|c:\\users\\victus\\desktop\\ders notlar\u0131\\ntp 10.s\u0131n\u0131f\\otomasyonlar\\hastane kay\u0131t otomasyonu\\hastanekay\u0131totomasyonu\\hastanekay\u0131totomasyonu\\siremiunuttum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{39EBD924-A69D-418C-AA77-26D7542062A7}|HastaneKay\u0131tOtomasyonu\\HastaneKay\u0131tOtomasyonu.csproj|solutionrelative:hastanekay\u0131totomasyonu\\siremiunuttum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39EBD924-A69D-418C-AA77-26D7542062A7}|HastaneKay\u0131tOtomasyonu\\HastaneKay\u0131tOtomasyonu.csproj|c:\\users\\victus\\desktop\\ders notlar\u0131\\ntp 10.s\u0131n\u0131f\\otomasyonlar\\hastane kay\u0131t otomasyonu\\hastanekay\u0131totomasyonu\\hastanekay\u0131totomasyonu\\personel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{39EBD924-A69D-418C-AA77-26D7542062A7}|HastaneKay\u0131tOtomasyonu\\HastaneKay\u0131tOtomasyonu.csproj|solutionrelative:hastanekay\u0131totomasyonu\\personel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39EBD924-A69D-418C-AA77-26D7542062A7}|HastaneKay\u0131tOtomasyonu\\HastaneKay\u0131tOtomasyonu.csproj|c:\\users\\victus\\desktop\\ders notlar\u0131\\ntp 10.s\u0131n\u0131f\\otomasyonlar\\hastane kay\u0131t otomasyonu\\hastanekay\u0131totomasyonu\\hastanekay\u0131totomasyonu\\klinik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{39EBD924-A69D-418C-AA77-26D7542062A7}|HastaneKay\u0131tOtomasyonu\\HastaneKay\u0131tOtomasyonu.csproj|solutionrelative:hastanekay\u0131totomasyonu\\klinik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39EBD924-A69D-418C-AA77-26D7542062A7}|HastaneKay\u0131tOtomasyonu\\HastaneKay\u0131tOtomasyonu.csproj|c:\\users\\victus\\desktop\\ders notlar\u0131\\ntp 10.s\u0131n\u0131f\\otomasyonlar\\hastane kay\u0131t otomasyonu\\hastanekay\u0131totomasyonu\\hastanekay\u0131totomasyonu\\hasta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{39EBD924-A69D-418C-AA77-26D7542062A7}|HastaneKay\u0131tOtomasyonu\\HastaneKay\u0131tOtomasyonu.csproj|solutionrelative:hastanekay\u0131totomasyonu\\hasta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "yenikayit.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Victus\\Desktop\\Ders Notlar\u0131\\NTP 10.S\u0131n\u0131f\\Otomasyonlar\\Hastane Kay\u0131t Otomasyonu\\HastaneKay\u0131tOtomasyonu\\HastaneKay\u0131tOtomasyonu\\yenikayit.cs",
+              "RelativeDocumentMoniker": "HastaneKay\u0131tOtomasyonu\\yenikayit.cs",
+              "ToolTip": "C:\\Users\\Victus\\Desktop\\Ders Notlar\u0131\\NTP 10.S\u0131n\u0131f\\Otomasyonlar\\Hastane Kay\u0131t Otomasyonu\\HastaneKay\u0131tOtomasyonu\\HastaneKay\u0131tOtomasyonu\\yenikayit.cs [Tasar\u0131m]",
+              "RelativeToolTip": "HastaneKay\u0131tOtomasyonu\\yenikayit.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T15:25:27.279Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "siremiunuttum.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Victus\\Desktop\\Ders Notlar\u0131\\NTP 10.S\u0131n\u0131f\\Otomasyonlar\\Hastane Kay\u0131t Otomasyonu\\HastaneKay\u0131tOtomasyonu\\HastaneKay\u0131tOtomasyonu\\siremiunuttum.cs",
+              "RelativeDocumentMoniker": "HastaneKay\u0131tOtomasyonu\\siremiunuttum.cs",
+              "ToolTip": "C:\\Users\\Victus\\Desktop\\Ders Notlar\u0131\\NTP 10.S\u0131n\u0131f\\Otomasyonlar\\Hastane Kay\u0131t Otomasyonu\\HastaneKay\u0131tOtomasyonu\\HastaneKay\u0131tOtomasyonu\\siremiunuttum.cs [Tasar\u0131m]",
+              "RelativeToolTip": "HastaneKay\u0131tOtomasyonu\\siremiunuttum.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T15:25:25.864Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "personel.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Victus\\Desktop\\Ders Notlar\u0131\\NTP 10.S\u0131n\u0131f\\Otomasyonlar\\Hastane Kay\u0131t Otomasyonu\\HastaneKay\u0131tOtomasyonu\\HastaneKay\u0131tOtomasyonu\\personel.cs",
+              "RelativeDocumentMoniker": "HastaneKay\u0131tOtomasyonu\\personel.cs",
+              "ToolTip": "C:\\Users\\Victus\\Desktop\\Ders Notlar\u0131\\NTP 10.S\u0131n\u0131f\\Otomasyonlar\\Hastane Kay\u0131t Otomasyonu\\HastaneKay\u0131tOtomasyonu\\HastaneKay\u0131tOtomasyonu\\personel.cs [Tasar\u0131m]",
+              "RelativeToolTip": "HastaneKay\u0131tOtomasyonu\\personel.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T15:25:21.858Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Klinik.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Victus\\Desktop\\Ders Notlar\u0131\\NTP 10.S\u0131n\u0131f\\Otomasyonlar\\Hastane Kay\u0131t Otomasyonu\\HastaneKay\u0131tOtomasyonu\\HastaneKay\u0131tOtomasyonu\\Klinik.cs",
+              "RelativeDocumentMoniker": "HastaneKay\u0131tOtomasyonu\\Klinik.cs",
+              "ToolTip": "C:\\Users\\Victus\\Desktop\\Ders Notlar\u0131\\NTP 10.S\u0131n\u0131f\\Otomasyonlar\\Hastane Kay\u0131t Otomasyonu\\HastaneKay\u0131tOtomasyonu\\HastaneKay\u0131tOtomasyonu\\Klinik.cs [Tasar\u0131m]",
+              "RelativeToolTip": "HastaneKay\u0131tOtomasyonu\\Klinik.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T15:25:15.056Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "hasta.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Victus\\Desktop\\Ders Notlar\u0131\\NTP 10.S\u0131n\u0131f\\Otomasyonlar\\Hastane Kay\u0131t Otomasyonu\\HastaneKay\u0131tOtomasyonu\\HastaneKay\u0131tOtomasyonu\\hasta.cs",
+              "RelativeDocumentMoniker": "HastaneKay\u0131tOtomasyonu\\hasta.cs",
+              "ToolTip": "C:\\Users\\Victus\\Desktop\\Ders Notlar\u0131\\NTP 10.S\u0131n\u0131f\\Otomasyonlar\\Hastane Kay\u0131t Otomasyonu\\HastaneKay\u0131tOtomasyonu\\HastaneKay\u0131tOtomasyonu\\hasta.cs [Tasar\u0131m]",
+              "RelativeToolTip": "HastaneKay\u0131tOtomasyonu\\hasta.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T15:25:12.531Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Giris.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Victus\\Desktop\\Ders Notlar\u0131\\NTP 10.S\u0131n\u0131f\\Otomasyonlar\\Hastane Kay\u0131t Otomasyonu\\HastaneKay\u0131tOtomasyonu\\HastaneKay\u0131tOtomasyonu\\Giris.cs",
+              "RelativeDocumentMoniker": "HastaneKay\u0131tOtomasyonu\\Giris.cs",
+              "ToolTip": "C:\\Users\\Victus\\Desktop\\Ders Notlar\u0131\\NTP 10.S\u0131n\u0131f\\Otomasyonlar\\Hastane Kay\u0131t Otomasyonu\\HastaneKay\u0131tOtomasyonu\\HastaneKay\u0131tOtomasyonu\\Giris.cs [Tasar\u0131m]",
+              "RelativeToolTip": "HastaneKay\u0131tOtomasyonu\\Giris.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T15:25:03.705Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
